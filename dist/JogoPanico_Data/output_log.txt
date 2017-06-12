@@ -1,0 +1,57 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.4276
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Projetos\JogoPanico\dist\JogoPanico_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,-165
+<RI> Initialized touch support.
+UnloadTime: 2.711201 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5044 -> priority: 1 
+fase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.854931 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.330133 ms (FindLiveObjects: 0.083388 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.218948 ms  DeleteObjects: 0.011546 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.182408 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.468259 ms (FindLiveObjects: 0.056447 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.290791 ms  DeleteObjects: 0.088947 ms)
+
+fase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.601681 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.324574 ms (FindLiveObjects: 0.044046 ms CreateObjectMapping: 0.024802 ms MarkObjects: 0.239902 ms  DeleteObjects: 0.014967 ms)
+
